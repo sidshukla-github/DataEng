@@ -1,7 +1,7 @@
 /**
- * A transform which adds a field to the incoming data.
- * @param {string} inJson
- * @return {string} outJson
+ * A transform which maps the incoming data to movie Bigquery JSON table schema.
+ * @param {string} line
+ * @return {string} jsonString
  */
 
 
