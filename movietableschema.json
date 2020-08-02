@@ -1,0 +1,24 @@
+{ "BigQuery Schema":
+    [
+        {
+            "name": "id",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "name",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "genre",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "year",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        }
+    ]
+}

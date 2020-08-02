@@ -1,0 +1,24 @@
+{ "BigQuery Schema":
+    [
+        {
+            "name": "user_id",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "movie_id",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "rating",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "rating_timestamp",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        }
+    ]
+}
